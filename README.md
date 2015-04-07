@@ -1,2 +1,2 @@
 # yo-EDITworld
-* everyone say HI *
+* everyone say HI 
